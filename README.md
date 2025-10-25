@@ -49,7 +49,7 @@ Users can upload an image of their **retina (eye)**, and the system will predict
 
 ## 🔗 Repositories
 
-- **Frontend (React Native):** [Plant_Disease_Detection_System_frontend](https://github.com/sajid384/Plant_Disease_Detection_System_frontend)  
+- **Frontend (React Native):** [Plant_Disease_Detection_System_frontend](https://github.com/sajid384/Diabetic_Retinopathy_Detection_App_Frontend)  
 - **Backend (Flask):** [Plant_Disease_Detection_System_Backend](https://github.com/sajid384/Plant_Disease_Detection_System_Backend)  
 
 ---
